@@ -14,7 +14,7 @@ npm i git+ssh://git@bitbucket.org/technology-valley/techv-bot-ui.git
 ```
 
 ## Usage
-First visit this page and follow the instructions in order the following parameters that you will need:
+First visit [this page](https://orchestrator.uipath.com/v2019/reference#consuming-cloud-api) and follow the instructions in order the following parameters that you will need:
 
 - client_id
 - refresh_token
