@@ -1,5 +1,5 @@
 # UiPath Orchestrator SDK
-This is an SDK written in Node.js that aims to help you work with the UiPath Orchestrator API. This SDK was developed as part of the Power Up Global Virtual Hackathon 2019.
+This is an SDK written in Node.js that aims to help you work with the UiPath Orchestrator API. This SDK was developed as part of the Power Up Global Virtual Hackathon 2019. You can reuse this SDK to connect your Chatbot or Conversational UI with UiPath.
 
 ## Motivation
 The main goal of this SDK is to help you start automatically jobs in the UIPath Orchestrator. In our case, we use this library in order to integrate a Conversational User Interface with UiPath robots.
