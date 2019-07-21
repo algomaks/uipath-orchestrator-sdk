@@ -38,5 +38,5 @@ You can also use the ```sdk.refreshAccessToken()``` method to get a new access t
 
 For a complete example, please view the example.js file.
 
-## Licence
+## License
 MIT
