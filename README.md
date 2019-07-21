@@ -6,14 +6,14 @@ The main goal of this SDK is to help you start automatically jobs in the UIPath 
 
 The recently announced UiPath Cloud Platform has a new mechanism for consuming APIs. This SDK is one of the first open-source packages that enables you to work with the new mechanism for consuming the UiPath Cloud Platform APIs.
 
-# Installation
+## Installation
 Run this NPM command to install the SDK as a dependency.
 
 ```
 npm i git+ssh://git@bitbucket.org/technology-valley/techv-bot-ui.git
 ```
 
-# Usage
+## Usage
 First visit this page and follow the instructions in order the following parameters that you will need:
 
 - client_id
